@@ -4,4 +4,4 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=brunolepis&theme=dark&hide_border=true" alt="brunolepis" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolepis&layout=compact" alt="brunolepis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolepis&layout=compact&theme=dark" alt="brunolepis" />
