@@ -6,9 +6,9 @@
   </p>
 
   ## About me 
-  Hello there 👋! My name is Bruno Lepis, I am just a guy who enjoys
-  programming. I can program in JavaScript, HTML, CSS and I'm learning C# and
-  Python.
+  Hello there 👋! My name is Bruno Lepis. I'm just a guy who enjoys
+  programming. I can program in JavaScript, HTML, CSS, and I'm learning C# and
+  Python is a programming language. The main things I'm using are Node.js, React, and Next.js.
   <br /><br />
   ## Statistics
   <p align="center">
