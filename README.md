@@ -6,7 +6,7 @@
   </p>
 
   ## About me 
-  Hello there 👋! My name is Bruno Lepis, I am just a gay who enjoys
+  Hello there 👋! My name is Bruno Lepis, I am just a guy who enjoys
   programming. I can program in JavaScript, HTML, CSS and I'm learning C# and
   Python.
   <br /><br />
