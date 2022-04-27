@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/-Node.js-grey?logo=node.js" />
     <img src="https://img.shields.io/badge/-React-grey?logo=react" />
     <img src="https://img.shields.io/badge/-Next.js-grey?logo=next.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-grey?logo=tailwind-css" />
     <img src="https://img.shields.io/badge/-npm-grey?logo=npm" />
     <img src="https://img.shields.io/badge/-MongoDB-grey?logo=mongodb" />
     <img src="https://img.shields.io/badge/-GitHub-grey?logo=github" />
@@ -22,7 +23,6 @@
     <img src="https://img.shields.io/badge/-CSS-grey?logo=css3" />
     <img src="https://img.shields.io/badge/-JavaScript-grey?logo=javascript" />
     <img src="https://img.shields.io/badge/-TypeScript-grey?logo=typescript" />
-    <img src="https://img.shields.io/badge/-Python-grey?logo=python" />
   </p>
   
   ## Statistics
