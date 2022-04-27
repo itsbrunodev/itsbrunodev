@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/-npm-grey?logo=npm" />
     <img src="https://img.shields.io/badge/-MongoDB-grey?logo=mongodb" />
     <img src="https://img.shields.io/badge/-GitHub-grey?logo=github" />
+    <img src="https://img.shields.io/badge/-Cloudflare-grey?logo=cloudflare" />
     <img src="https://img.shields.io/badge/-HTML-grey?logo=html5" />
     <img src="https://img.shields.io/badge/-CSS-grey?logo=css3" />
     <img src="https://img.shields.io/badge/-JavaScript-grey?logo=javascript" />
