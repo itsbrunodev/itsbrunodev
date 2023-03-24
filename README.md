@@ -25,5 +25,5 @@ My name is [Bruno Lepis](https://brunolepis.xyz/), a guy who really likes progra
 
 ## Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=brunolepis&show_icons=true&theme=dark&icon_color=1774d1" />
+<img src="https://github-readme-stats.vercel.app/api?username=brunolepis&count_private=true&show_icons=true&theme=dark&icon_color=1774d1" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolepis&layout=compact&theme=dark" />
