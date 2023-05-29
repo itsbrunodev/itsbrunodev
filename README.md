@@ -21,7 +21,8 @@ My name is [Bruno Lepis](https://brunolepis.xyz/), a guy who really likes progra
 <img src="https://img.shields.io/badge/-TypeScript-grey?logo=typescript" />
 <img src="https://img.shields.io/badge/-Rust-grey?logo=rust" />
 <img src="https://img.shields.io/badge/-Astro-grey?logo=astro" />
-<img src="https://img.shields.io/badge/-Vite-grey?logo=vite" /></p>
+<img src="https://img.shields.io/badge/-Vite-grey?logo=vite" />
+<img src="https://img.shields.io/badge/-Bun-grey?logo=bun" /></p>
 
 ## Statistics
 
