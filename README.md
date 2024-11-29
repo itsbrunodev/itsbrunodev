@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Bruno, a high school student with 4 years of programming experience. 
+I'm Bruno, a self-taught full-stack developer with 4 years of programming experience. 
 
 My favorite programming language is TypeScript, and I love working with React and Node.js. I'm fluent in English, German, and Hungarian.
 
