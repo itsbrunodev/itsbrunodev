@@ -1,7 +1,11 @@
-## Hello! 👋
+# About Me
 
-I'm Bruno, a self-taught full-stack developer who has been programming since 2020. 
+I'm Bruno, a self-taught full-stack developer. I have been building web applications since 2020. My primary tools are TypeScript, Node.js, and React.
 
-My favorite programming language is TypeScript, and I love working with React and Node.js. I'm fluent in English, German, and Hungarian.
+I am fluent in English, German, and Hungarian.
+
+Outside of coding, I am a regular at the gym. It helps me stay active and focused.
+
+<a href="https://itsbruno.dev/about" target="_blank">Read more about me...</a>
 
 <img src="https://komarev.com/ghpvc/?username=brunolepis&style=flat">
