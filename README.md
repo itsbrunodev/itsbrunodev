@@ -1,6 +1,6 @@
 # About Me
 
-I'm Bruno, a self-taught full-stack developer. I have been building web applications since 2020. My primary tools are TypeScript, Node.js, and React.
+I'm Bruno, a self-taught full-stack developer based in Hungary. I have been building web applications since 2020. My primary tools are TypeScript, Node.js, and React.
 
 I am fluent in English, German, and Hungarian.
 
